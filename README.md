@@ -1,1 +1,1 @@
-# the-haunted-museum-bookings
+# ZAK-BAGANS-haunted-museum-bookings
