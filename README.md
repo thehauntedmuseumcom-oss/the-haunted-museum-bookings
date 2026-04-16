@@ -1,1 +1,1 @@
-# ZAK-BAGANS-haunted-museum-VIP-bookings
+# Zak-haunted-museum-VIP-bookings
