@@ -1,1 +1,1 @@
-# Zak-haunted-museum-VIP-bookings
+VIP-bookings
